@@ -14,10 +14,5 @@
     "require": {
     },
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "phamvanhieu\\module\\": "/"
-        }
-    },
     "minimum-stability": "dev"
 }
