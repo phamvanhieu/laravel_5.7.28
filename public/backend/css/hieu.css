@@ -1,0 +1,23 @@
+.menu li label{
+    cursor: pointer;
+}
+.menu li{
+    cursor: pointer;
+}
+#dropdow:checked > .menu .item{
+    display: block;
+}
+
+#dropdowitems{
+    color: #30a5ff;
+}
+.active #dropdowitems{
+    color: white!important;
+}
+#img{
+    width: 101px;
+    opacity: 0;
+    height: 101px;
+    position: absolute;
+    z-index: 999;
+}
