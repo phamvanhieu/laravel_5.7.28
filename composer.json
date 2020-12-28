@@ -1,0 +1,23 @@
+{
+    "name": "phamvanhieu/laravel_5x",
+    "type": "library",
+    "description": "project laravel 5x",
+    "keywords": [
+        "log","logging"
+    ],
+    "authors": [
+        {
+            "name": "Phạm Văn Hiệu",
+            "email": "vanhieutdc6@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "phamvanhieu\\module\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
